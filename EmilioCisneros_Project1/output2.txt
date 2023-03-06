@@ -1,0 +1,702 @@
+Simulation at 2023-03-05
+Universe size 100 x 100
+######################################### 
+Iteration:0
+
+Block: 2 |  66.66666666666666 % 
+Beehive: 1 |  33.33333333333333 % 
+Loaf: 0 |  0.0 % 
+Boat: 0 |  0.0 % 
+Tub: 0 |  0.0 % 
+Blinker: 0 |  0.0 % 
+Toad: 0 |  0.0 % 
+Beacon: 0 |  0.0 % 
+Glider: 0 |  0.0 % 
+LWS: 0 |  0.0 % 
+Total: 3
+######################################### 
+Iteration:1
+
+Block: 1 |  100.0 % 
+Beehive: 0 |  0.0 % 
+Loaf: 0 |  0.0 % 
+Boat: 0 |  0.0 % 
+Tub: 0 |  0.0 % 
+Blinker: 0 |  0.0 % 
+Toad: 0 |  0.0 % 
+Beacon: 0 |  0.0 % 
+Glider: 0 |  0.0 % 
+LWS: 0 |  0.0 % 
+Total: 1
+######################################### 
+Iteration:2
+
+Block: 1 |  100.0 % 
+Beehive: 0 |  0.0 % 
+Loaf: 0 |  0.0 % 
+Boat: 0 |  0.0 % 
+Tub: 0 |  0.0 % 
+Blinker: 0 |  0.0 % 
+Toad: 0 |  0.0 % 
+Beacon: 0 |  0.0 % 
+Glider: 0 |  0.0 % 
+LWS: 0 |  0.0 % 
+Total: 1
+######################################### 
+Iteration:3
+
+Block: 3 |  100.0 % 
+Beehive: 0 |  0.0 % 
+Loaf: 0 |  0.0 % 
+Boat: 0 |  0.0 % 
+Tub: 0 |  0.0 % 
+Blinker: 0 |  0.0 % 
+Toad: 0 |  0.0 % 
+Beacon: 0 |  0.0 % 
+Glider: 0 |  0.0 % 
+LWS: 0 |  0.0 % 
+Total: 3
+######################################### 
+Iteration:4
+
+Block: 1 |  50.0 % 
+Beehive: 0 |  0.0 % 
+Loaf: 0 |  0.0 % 
+Boat: 0 |  0.0 % 
+Tub: 0 |  0.0 % 
+Blinker: 1 |  50.0 % 
+Toad: 0 |  0.0 % 
+Beacon: 0 |  0.0 % 
+Glider: 0 |  0.0 % 
+LWS: 0 |  0.0 % 
+Total: 2
+######################################### 
+Iteration:5
+
+Block: 2 |  100.0 % 
+Beehive: 0 |  0.0 % 
+Loaf: 0 |  0.0 % 
+Boat: 0 |  0.0 % 
+Tub: 0 |  0.0 % 
+Blinker: 0 |  0.0 % 
+Toad: 0 |  0.0 % 
+Beacon: 0 |  0.0 % 
+Glider: 0 |  0.0 % 
+LWS: 0 |  0.0 % 
+Total: 2
+######################################### 
+Iteration:6
+
+Block: 2 |  100.0 % 
+Beehive: 0 |  0.0 % 
+Loaf: 0 |  0.0 % 
+Boat: 0 |  0.0 % 
+Tub: 0 |  0.0 % 
+Blinker: 0 |  0.0 % 
+Toad: 0 |  0.0 % 
+Beacon: 0 |  0.0 % 
+Glider: 0 |  0.0 % 
+LWS: 0 |  0.0 % 
+Total: 2
+######################################### 
+Iteration:7
+
+Block: 2 |  100.0 % 
+Beehive: 0 |  0.0 % 
+Loaf: 0 |  0.0 % 
+Boat: 0 |  0.0 % 
+Tub: 0 |  0.0 % 
+Blinker: 0 |  0.0 % 
+Toad: 0 |  0.0 % 
+Beacon: 0 |  0.0 % 
+Glider: 0 |  0.0 % 
+LWS: 0 |  0.0 % 
+Total: 2
+######################################### 
+Iteration:8
+
+Block: 2 |  100.0 % 
+Beehive: 0 |  0.0 % 
+Loaf: 0 |  0.0 % 
+Boat: 0 |  0.0 % 
+Tub: 0 |  0.0 % 
+Blinker: 0 |  0.0 % 
+Toad: 0 |  0.0 % 
+Beacon: 0 |  0.0 % 
+Glider: 0 |  0.0 % 
+LWS: 0 |  0.0 % 
+Total: 2
+######################################### 
+Iteration:9
+
+Block: 2 |  100.0 % 
+Beehive: 0 |  0.0 % 
+Loaf: 0 |  0.0 % 
+Boat: 0 |  0.0 % 
+Tub: 0 |  0.0 % 
+Blinker: 0 |  0.0 % 
+Toad: 0 |  0.0 % 
+Beacon: 0 |  0.0 % 
+Glider: 0 |  0.0 % 
+LWS: 0 |  0.0 % 
+Total: 2
+######################################### 
+Iteration:10
+
+Block: 2 |  100.0 % 
+Beehive: 0 |  0.0 % 
+Loaf: 0 |  0.0 % 
+Boat: 0 |  0.0 % 
+Tub: 0 |  0.0 % 
+Blinker: 0 |  0.0 % 
+Toad: 0 |  0.0 % 
+Beacon: 0 |  0.0 % 
+Glider: 0 |  0.0 % 
+LWS: 0 |  0.0 % 
+Total: 2
+######################################### 
+Iteration:11
+
+Block: 2 |  100.0 % 
+Beehive: 0 |  0.0 % 
+Loaf: 0 |  0.0 % 
+Boat: 0 |  0.0 % 
+Tub: 0 |  0.0 % 
+Blinker: 0 |  0.0 % 
+Toad: 0 |  0.0 % 
+Beacon: 0 |  0.0 % 
+Glider: 0 |  0.0 % 
+LWS: 0 |  0.0 % 
+Total: 2
+######################################### 
+Iteration:12
+
+Block: 2 |  100.0 % 
+Beehive: 0 |  0.0 % 
+Loaf: 0 |  0.0 % 
+Boat: 0 |  0.0 % 
+Tub: 0 |  0.0 % 
+Blinker: 0 |  0.0 % 
+Toad: 0 |  0.0 % 
+Beacon: 0 |  0.0 % 
+Glider: 0 |  0.0 % 
+LWS: 0 |  0.0 % 
+Total: 2
+######################################### 
+Iteration:13
+
+Block: 4 |  100.0 % 
+Beehive: 0 |  0.0 % 
+Loaf: 0 |  0.0 % 
+Boat: 0 |  0.0 % 
+Tub: 0 |  0.0 % 
+Blinker: 0 |  0.0 % 
+Toad: 0 |  0.0 % 
+Beacon: 0 |  0.0 % 
+Glider: 0 |  0.0 % 
+LWS: 0 |  0.0 % 
+Total: 4
+######################################### 
+Iteration:14
+
+Block: 2 |  66.66666666666666 % 
+Beehive: 0 |  0.0 % 
+Loaf: 0 |  0.0 % 
+Boat: 0 |  0.0 % 
+Tub: 0 |  0.0 % 
+Blinker: 1 |  33.33333333333333 % 
+Toad: 0 |  0.0 % 
+Beacon: 0 |  0.0 % 
+Glider: 0 |  0.0 % 
+LWS: 0 |  0.0 % 
+Total: 3
+######################################### 
+Iteration:15
+
+Block: 2 |  100.0 % 
+Beehive: 0 |  0.0 % 
+Loaf: 0 |  0.0 % 
+Boat: 0 |  0.0 % 
+Tub: 0 |  0.0 % 
+Blinker: 0 |  0.0 % 
+Toad: 0 |  0.0 % 
+Beacon: 0 |  0.0 % 
+Glider: 0 |  0.0 % 
+LWS: 0 |  0.0 % 
+Total: 2
+######################################### 
+Iteration:16
+
+Block: 2 |  100.0 % 
+Beehive: 0 |  0.0 % 
+Loaf: 0 |  0.0 % 
+Boat: 0 |  0.0 % 
+Tub: 0 |  0.0 % 
+Blinker: 0 |  0.0 % 
+Toad: 0 |  0.0 % 
+Beacon: 0 |  0.0 % 
+Glider: 0 |  0.0 % 
+LWS: 0 |  0.0 % 
+Total: 2
+######################################### 
+Iteration:17
+
+Block: 2 |  66.66666666666666 % 
+Beehive: 0 |  0.0 % 
+Loaf: 0 |  0.0 % 
+Boat: 0 |  0.0 % 
+Tub: 0 |  0.0 % 
+Blinker: 1 |  33.33333333333333 % 
+Toad: 0 |  0.0 % 
+Beacon: 0 |  0.0 % 
+Glider: 0 |  0.0 % 
+LWS: 0 |  0.0 % 
+Total: 3
+######################################### 
+Iteration:18
+
+Block: 4 |  80.0 % 
+Beehive: 0 |  0.0 % 
+Loaf: 0 |  0.0 % 
+Boat: 0 |  0.0 % 
+Tub: 0 |  0.0 % 
+Blinker: 1 |  20.0 % 
+Toad: 0 |  0.0 % 
+Beacon: 0 |  0.0 % 
+Glider: 0 |  0.0 % 
+LWS: 0 |  0.0 % 
+Total: 5
+######################################### 
+Iteration:19
+
+Block: 2 |  40.0 % 
+Beehive: 0 |  0.0 % 
+Loaf: 0 |  0.0 % 
+Boat: 0 |  0.0 % 
+Tub: 0 |  0.0 % 
+Blinker: 3 |  60.0 % 
+Toad: 0 |  0.0 % 
+Beacon: 0 |  0.0 % 
+Glider: 0 |  0.0 % 
+LWS: 0 |  0.0 % 
+Total: 5
+######################################### 
+Iteration:20
+
+Block: 2 |  100.0 % 
+Beehive: 0 |  0.0 % 
+Loaf: 0 |  0.0 % 
+Boat: 0 |  0.0 % 
+Tub: 0 |  0.0 % 
+Blinker: 0 |  0.0 % 
+Toad: 0 |  0.0 % 
+Beacon: 0 |  0.0 % 
+Glider: 0 |  0.0 % 
+LWS: 0 |  0.0 % 
+Total: 2
+######################################### 
+Iteration:21
+
+Block: 2 |  100.0 % 
+Beehive: 0 |  0.0 % 
+Loaf: 0 |  0.0 % 
+Boat: 0 |  0.0 % 
+Tub: 0 |  0.0 % 
+Blinker: 0 |  0.0 % 
+Toad: 0 |  0.0 % 
+Beacon: 0 |  0.0 % 
+Glider: 0 |  0.0 % 
+LWS: 0 |  0.0 % 
+Total: 2
+######################################### 
+Iteration:22
+
+Block: 2 |  100.0 % 
+Beehive: 0 |  0.0 % 
+Loaf: 0 |  0.0 % 
+Boat: 0 |  0.0 % 
+Tub: 0 |  0.0 % 
+Blinker: 0 |  0.0 % 
+Toad: 0 |  0.0 % 
+Beacon: 0 |  0.0 % 
+Glider: 0 |  0.0 % 
+LWS: 0 |  0.0 % 
+Total: 2
+######################################### 
+Iteration:23
+
+Block: 2 |  100.0 % 
+Beehive: 0 |  0.0 % 
+Loaf: 0 |  0.0 % 
+Boat: 0 |  0.0 % 
+Tub: 0 |  0.0 % 
+Blinker: 0 |  0.0 % 
+Toad: 0 |  0.0 % 
+Beacon: 0 |  0.0 % 
+Glider: 0 |  0.0 % 
+LWS: 0 |  0.0 % 
+Total: 2
+######################################### 
+Iteration:24
+
+Block: 2 |  100.0 % 
+Beehive: 0 |  0.0 % 
+Loaf: 0 |  0.0 % 
+Boat: 0 |  0.0 % 
+Tub: 0 |  0.0 % 
+Blinker: 0 |  0.0 % 
+Toad: 0 |  0.0 % 
+Beacon: 0 |  0.0 % 
+Glider: 0 |  0.0 % 
+LWS: 0 |  0.0 % 
+Total: 2
+######################################### 
+Iteration:25
+
+Block: 2 |  66.66666666666666 % 
+Beehive: 1 |  33.33333333333333 % 
+Loaf: 0 |  0.0 % 
+Boat: 0 |  0.0 % 
+Tub: 0 |  0.0 % 
+Blinker: 0 |  0.0 % 
+Toad: 0 |  0.0 % 
+Beacon: 0 |  0.0 % 
+Glider: 0 |  0.0 % 
+LWS: 0 |  0.0 % 
+Total: 3
+######################################### 
+Iteration:26
+
+Block: 1 |  100.0 % 
+Beehive: 0 |  0.0 % 
+Loaf: 0 |  0.0 % 
+Boat: 0 |  0.0 % 
+Tub: 0 |  0.0 % 
+Blinker: 0 |  0.0 % 
+Toad: 0 |  0.0 % 
+Beacon: 0 |  0.0 % 
+Glider: 0 |  0.0 % 
+LWS: 0 |  0.0 % 
+Total: 1
+######################################### 
+Iteration:27
+
+Block: 1 |  100.0 % 
+Beehive: 0 |  0.0 % 
+Loaf: 0 |  0.0 % 
+Boat: 0 |  0.0 % 
+Tub: 0 |  0.0 % 
+Blinker: 0 |  0.0 % 
+Toad: 0 |  0.0 % 
+Beacon: 0 |  0.0 % 
+Glider: 0 |  0.0 % 
+LWS: 0 |  0.0 % 
+Total: 1
+######################################### 
+Iteration:28
+
+Block: 3 |  100.0 % 
+Beehive: 0 |  0.0 % 
+Loaf: 0 |  0.0 % 
+Boat: 0 |  0.0 % 
+Tub: 0 |  0.0 % 
+Blinker: 0 |  0.0 % 
+Toad: 0 |  0.0 % 
+Beacon: 0 |  0.0 % 
+Glider: 0 |  0.0 % 
+LWS: 0 |  0.0 % 
+Total: 3
+######################################### 
+Iteration:29
+
+Block: 1 |  50.0 % 
+Beehive: 0 |  0.0 % 
+Loaf: 0 |  0.0 % 
+Boat: 0 |  0.0 % 
+Tub: 0 |  0.0 % 
+Blinker: 1 |  50.0 % 
+Toad: 0 |  0.0 % 
+Beacon: 0 |  0.0 % 
+Glider: 0 |  0.0 % 
+LWS: 0 |  0.0 % 
+Total: 2
+######################################### 
+Iteration:30
+
+Block: 2 |  66.66666666666666 % 
+Beehive: 1 |  33.33333333333333 % 
+Loaf: 0 |  0.0 % 
+Boat: 0 |  0.0 % 
+Tub: 0 |  0.0 % 
+Blinker: 0 |  0.0 % 
+Toad: 0 |  0.0 % 
+Beacon: 0 |  0.0 % 
+Glider: 0 |  0.0 % 
+LWS: 0 |  0.0 % 
+Total: 3
+######################################### 
+Iteration:31
+
+Block: 1 |  100.0 % 
+Beehive: 0 |  0.0 % 
+Loaf: 0 |  0.0 % 
+Boat: 0 |  0.0 % 
+Tub: 0 |  0.0 % 
+Blinker: 0 |  0.0 % 
+Toad: 0 |  0.0 % 
+Beacon: 0 |  0.0 % 
+Glider: 0 |  0.0 % 
+LWS: 0 |  0.0 % 
+Total: 1
+######################################### 
+Iteration:32
+
+Block: 1 |  100.0 % 
+Beehive: 0 |  0.0 % 
+Loaf: 0 |  0.0 % 
+Boat: 0 |  0.0 % 
+Tub: 0 |  0.0 % 
+Blinker: 0 |  0.0 % 
+Toad: 0 |  0.0 % 
+Beacon: 0 |  0.0 % 
+Glider: 0 |  0.0 % 
+LWS: 0 |  0.0 % 
+Total: 1
+######################################### 
+Iteration:33
+
+Block: 3 |  100.0 % 
+Beehive: 0 |  0.0 % 
+Loaf: 0 |  0.0 % 
+Boat: 0 |  0.0 % 
+Tub: 0 |  0.0 % 
+Blinker: 0 |  0.0 % 
+Toad: 0 |  0.0 % 
+Beacon: 0 |  0.0 % 
+Glider: 0 |  0.0 % 
+LWS: 0 |  0.0 % 
+Total: 3
+######################################### 
+Iteration:34
+
+Block: 1 |  50.0 % 
+Beehive: 0 |  0.0 % 
+Loaf: 0 |  0.0 % 
+Boat: 0 |  0.0 % 
+Tub: 0 |  0.0 % 
+Blinker: 1 |  50.0 % 
+Toad: 0 |  0.0 % 
+Beacon: 0 |  0.0 % 
+Glider: 0 |  0.0 % 
+LWS: 0 |  0.0 % 
+Total: 2
+######################################### 
+Iteration:35
+
+Block: 2 |  100.0 % 
+Beehive: 0 |  0.0 % 
+Loaf: 0 |  0.0 % 
+Boat: 0 |  0.0 % 
+Tub: 0 |  0.0 % 
+Blinker: 0 |  0.0 % 
+Toad: 0 |  0.0 % 
+Beacon: 0 |  0.0 % 
+Glider: 0 |  0.0 % 
+LWS: 0 |  0.0 % 
+Total: 2
+######################################### 
+Iteration:36
+
+Block: 2 |  100.0 % 
+Beehive: 0 |  0.0 % 
+Loaf: 0 |  0.0 % 
+Boat: 0 |  0.0 % 
+Tub: 0 |  0.0 % 
+Blinker: 0 |  0.0 % 
+Toad: 0 |  0.0 % 
+Beacon: 0 |  0.0 % 
+Glider: 0 |  0.0 % 
+LWS: 0 |  0.0 % 
+Total: 2
+######################################### 
+Iteration:37
+
+Block: 2 |  100.0 % 
+Beehive: 0 |  0.0 % 
+Loaf: 0 |  0.0 % 
+Boat: 0 |  0.0 % 
+Tub: 0 |  0.0 % 
+Blinker: 0 |  0.0 % 
+Toad: 0 |  0.0 % 
+Beacon: 0 |  0.0 % 
+Glider: 0 |  0.0 % 
+LWS: 0 |  0.0 % 
+Total: 2
+######################################### 
+Iteration:38
+
+Block: 2 |  100.0 % 
+Beehive: 0 |  0.0 % 
+Loaf: 0 |  0.0 % 
+Boat: 0 |  0.0 % 
+Tub: 0 |  0.0 % 
+Blinker: 0 |  0.0 % 
+Toad: 0 |  0.0 % 
+Beacon: 0 |  0.0 % 
+Glider: 0 |  0.0 % 
+LWS: 0 |  0.0 % 
+Total: 2
+######################################### 
+Iteration:39
+
+Block: 2 |  100.0 % 
+Beehive: 0 |  0.0 % 
+Loaf: 0 |  0.0 % 
+Boat: 0 |  0.0 % 
+Tub: 0 |  0.0 % 
+Blinker: 0 |  0.0 % 
+Toad: 0 |  0.0 % 
+Beacon: 0 |  0.0 % 
+Glider: 0 |  0.0 % 
+LWS: 0 |  0.0 % 
+Total: 2
+######################################### 
+Iteration:40
+
+Block: 2 |  100.0 % 
+Beehive: 0 |  0.0 % 
+Loaf: 0 |  0.0 % 
+Boat: 0 |  0.0 % 
+Tub: 0 |  0.0 % 
+Blinker: 0 |  0.0 % 
+Toad: 0 |  0.0 % 
+Beacon: 0 |  0.0 % 
+Glider: 0 |  0.0 % 
+LWS: 0 |  0.0 % 
+Total: 2
+######################################### 
+Iteration:41
+
+Block: 2 |  100.0 % 
+Beehive: 0 |  0.0 % 
+Loaf: 0 |  0.0 % 
+Boat: 0 |  0.0 % 
+Tub: 0 |  0.0 % 
+Blinker: 0 |  0.0 % 
+Toad: 0 |  0.0 % 
+Beacon: 0 |  0.0 % 
+Glider: 0 |  0.0 % 
+LWS: 0 |  0.0 % 
+Total: 2
+######################################### 
+Iteration:42
+
+Block: 2 |  100.0 % 
+Beehive: 0 |  0.0 % 
+Loaf: 0 |  0.0 % 
+Boat: 0 |  0.0 % 
+Tub: 0 |  0.0 % 
+Blinker: 0 |  0.0 % 
+Toad: 0 |  0.0 % 
+Beacon: 0 |  0.0 % 
+Glider: 0 |  0.0 % 
+LWS: 0 |  0.0 % 
+Total: 2
+######################################### 
+Iteration:43
+
+Block: 4 |  100.0 % 
+Beehive: 0 |  0.0 % 
+Loaf: 0 |  0.0 % 
+Boat: 0 |  0.0 % 
+Tub: 0 |  0.0 % 
+Blinker: 0 |  0.0 % 
+Toad: 0 |  0.0 % 
+Beacon: 0 |  0.0 % 
+Glider: 0 |  0.0 % 
+LWS: 0 |  0.0 % 
+Total: 4
+######################################### 
+Iteration:44
+
+Block: 2 |  66.66666666666666 % 
+Beehive: 0 |  0.0 % 
+Loaf: 0 |  0.0 % 
+Boat: 0 |  0.0 % 
+Tub: 0 |  0.0 % 
+Blinker: 1 |  33.33333333333333 % 
+Toad: 0 |  0.0 % 
+Beacon: 0 |  0.0 % 
+Glider: 0 |  0.0 % 
+LWS: 0 |  0.0 % 
+Total: 3
+######################################### 
+Iteration:45
+
+Block: 2 |  100.0 % 
+Beehive: 0 |  0.0 % 
+Loaf: 0 |  0.0 % 
+Boat: 0 |  0.0 % 
+Tub: 0 |  0.0 % 
+Blinker: 0 |  0.0 % 
+Toad: 0 |  0.0 % 
+Beacon: 0 |  0.0 % 
+Glider: 0 |  0.0 % 
+LWS: 0 |  0.0 % 
+Total: 2
+######################################### 
+Iteration:46
+
+Block: 2 |  100.0 % 
+Beehive: 0 |  0.0 % 
+Loaf: 0 |  0.0 % 
+Boat: 0 |  0.0 % 
+Tub: 0 |  0.0 % 
+Blinker: 0 |  0.0 % 
+Toad: 0 |  0.0 % 
+Beacon: 0 |  0.0 % 
+Glider: 0 |  0.0 % 
+LWS: 0 |  0.0 % 
+Total: 2
+######################################### 
+Iteration:47
+
+Block: 2 |  66.66666666666666 % 
+Beehive: 0 |  0.0 % 
+Loaf: 0 |  0.0 % 
+Boat: 0 |  0.0 % 
+Tub: 0 |  0.0 % 
+Blinker: 1 |  33.33333333333333 % 
+Toad: 0 |  0.0 % 
+Beacon: 0 |  0.0 % 
+Glider: 0 |  0.0 % 
+LWS: 0 |  0.0 % 
+Total: 3
+######################################### 
+Iteration:48
+
+Block: 4 |  80.0 % 
+Beehive: 0 |  0.0 % 
+Loaf: 0 |  0.0 % 
+Boat: 0 |  0.0 % 
+Tub: 0 |  0.0 % 
+Blinker: 1 |  20.0 % 
+Toad: 0 |  0.0 % 
+Beacon: 0 |  0.0 % 
+Glider: 0 |  0.0 % 
+LWS: 0 |  0.0 % 
+Total: 5
+######################################### 
+Iteration:49
+
+Block: 2 |  40.0 % 
+Beehive: 0 |  0.0 % 
+Loaf: 0 |  0.0 % 
+Boat: 0 |  0.0 % 
+Tub: 0 |  0.0 % 
+Blinker: 3 |  60.0 % 
+Toad: 0 |  0.0 % 
+Beacon: 0 |  0.0 % 
+Glider: 0 |  0.0 % 
+LWS: 0 |  0.0 % 
+Total: 5
